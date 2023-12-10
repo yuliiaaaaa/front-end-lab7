@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Emberlyn",
+    "price": 140.40,
+    "photoUrl": "https://avatars.mds.yandex.net/i?id=2145052855e2b8d161cf5fb77d6802c841439bfa-6998621-images-thumbs&n=13"
+  },
+  {
+    "name": "Crystalia",
+    "price": 180.60,
+    "photoUrl": "https://i.pinimg.com/474x/94/13/ce/9413ce452d7f1e76493247a6369140b3.jpg"
+  },
+    {
+    "name": "Zephyra",
+    "price": 96.89,
+    "photoUrl": "https://st4.depositphotos.com/34500480/40644/v/450/depositphotos_406445304-stock-illustration-vector-illustration-of-cartoon-little.jpg"
+  },
+    {
+    "name": "Seraphina",
+    "price": 75.70,
+    "photoUrl": "https://st3.depositphotos.com/1742040/15409/v/450/depositphotos_154096624-stock-illustration-spring-fairy-girl.jpg"
+  },
+    {
+    "name": "Luminara",
+    "price": 120.99,
+    "photoUrl": "https://avatars.mds.yandex.net/i?id=f0bc3ea60799f1a5bd3f39a34e0e438726bab4ef-3906494-images-thumbs&n=13"
+  },
+    {
+    "name": "Petaline",
+    "price": 150.69,
+    "photoUrl": "https://st5.depositphotos.com/9876904/66655/v/450/depositphotos_666553742-stock-illustration-cute-fairy-girl-cartoon-character.jpg"
+  }
+]
